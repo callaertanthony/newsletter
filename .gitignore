@@ -1,6 +1,7 @@
 # Maven
 /target/
 /log/
+/lib/
 
 # Mac
 .DS_Store
