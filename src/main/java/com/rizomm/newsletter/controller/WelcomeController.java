@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package sample.jsp;
+package com.rizomm.newsletter.controller;
 
 import java.util.Date;
 import java.util.Map;

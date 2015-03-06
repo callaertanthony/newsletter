@@ -12,5 +12,6 @@
 </head>
 <body>
 Ici les users !
+${list}
 </body>
 </html>
